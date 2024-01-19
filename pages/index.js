@@ -28,7 +28,7 @@ export default function Home({ widgets }) {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js Widget Store!</a>
+          Next.js
         </h1>
 
         <div className="cards">
